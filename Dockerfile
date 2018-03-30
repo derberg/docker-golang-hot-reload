@@ -6,4 +6,4 @@ RUN apk add --update tzdata \
 # Install fresh that brings reload functionality
 RUN go get github.com/pilu/fresh
 
-CMD fresh
+ENTRYPOINT ["fresh"]
