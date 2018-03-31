@@ -1,8 +1,10 @@
-![Docker Pulls](https://img.shields.io/docker/pulls/derberg/docker-golang-hot-reload.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/derberg/docker-golang-hot-reload.svg) 
+![Docker Stars](https://img.shields.io/docker/stars/derberg/docker-golang-hot-reload.svg)
+
 
 # Docker Golang Hot-Reload
 
-This repo contains `Dockerfile` for image containing Go v1.9.2 and [Fresh](https://github.com/pilu/fresh) reloader.
+This repo contains `Dockerfile` for image containing Go v1.9.2 and [Fresh](https://github.com/pilu/fresh) reloader. It is relased on [Docker Hub](https://hub.docker.com/r/derberg/docker-golang-hot-reload/)
 
 ## Usage
 
