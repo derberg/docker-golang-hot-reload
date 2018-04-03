@@ -27,7 +27,7 @@ docker run --rm \
 
 ## Vendor directory case
 
-Fresh is awesome, but every tool has some limits. For Fresh it is `vendor` directory with your dependencies. You need to exclude it by putting below config file in the root of your project:
+Fresh is awesome, but every tool has some limits. For Fresh it is `vendor` directory with your dependencies. You need to exclude it by putting below config file (`runner.conf`) in the root of your project:
 
 ```
 root:              .
